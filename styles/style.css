@@ -193,6 +193,7 @@ form {
     position: relative;
     /*top: 30px;*/
     bottom: 0;
+    vertical-align: bottom;
   }
 
   #slider {
@@ -202,18 +203,18 @@ form {
 
   aside {
     position: absolute;
-    bottom: 0;
+    bottom: 3.5px;
     right: 0;
     background: black;
     width: 180px;
-    filter: opacity(40%);
-    height: 91.5%;
+    filter: opacity(70%);
+    height: 90.5%;
     margin-top: 50px;
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  aside p {
+  article aside p {
     color: white;
   }
 
