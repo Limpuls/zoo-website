@@ -1,0 +1,35 @@
+article h2 {
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+}
+
+article h4 {
+  color: #444;
+  text-align: center;
+}
+
+article p {
+  text-align: center;
+  padding: 20px;
+  padding-top: 0px;
+}
+
+#buy_button {
+  width: 85%;
+  margin: 0 auto;
+  padding: 10px;
+  background: #207cca;
+  color: white;
+  margin-top: 50px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  margin-bottom: 50px;
+}
+
+#buy_button p {
+  text-align: center;
+  color: white;
+}

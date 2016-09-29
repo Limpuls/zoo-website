@@ -1,0 +1,32 @@
+.opening {
+  text-align: center;
+  font-size: 18px;
+}
+
+#contact_info {
+  width: 85%;
+  margin: 0 auto;
+  padding: 10px;
+  background: #207cca;
+  color: white;
+  margin-top: -120px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  margin-bottom: 30px;
+}
+
+#contact_info p {
+  text-align: center;
+}
+
+section ul {
+  margin-left: 20px;
+  position: relative;
+  left: -55px;
+}
+
+section {
+  overflow: hidden;
+}

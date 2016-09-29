@@ -1,0 +1,18 @@
+article h2 {
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+}
+
+section img {
+  width: 95%;
+  filter: brightness(98%);
+  margin-bottom: 25px;
+}
+
+section p {
+  padding: 20px;
+  font-size: 13px;
+  text-align: center;
+  margin-top: -17px;
+}

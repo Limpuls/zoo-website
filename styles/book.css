@@ -1,0 +1,30 @@
+article h2 {
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+}
+
+section img {
+  width: 95%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#people {
+  float: left;
+  margin-bottom: 25px;
+}
+#prices {
+  float: right;
+  margin-right: 20px;
+}
+
+#buy_button {
+  clear: both;
+}
+
+section p {
+  font-size: 12px;
+  padding-left: 20px;
+  padding-top: 5px;
+}

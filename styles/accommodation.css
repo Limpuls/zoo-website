@@ -1,0 +1,38 @@
+article h2 {
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+  margin: 0 auto;
+}
+
+article p {
+  text-align: center;
+}
+
+section img {
+  filter: brightness(80%);
+  width: 95%;
+}
+
+#buy_button {
+  width: 85%;
+  margin: 0 auto;
+  padding: 10px;
+  background: #207cca;
+  color: white;
+  margin-top: 50px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  margin-bottom: 50px;
+}
+
+#buy_button p {
+  text-align: center;
+}
+
+#buy_button a {
+  text-decoration: none;
+  color: white;
+}

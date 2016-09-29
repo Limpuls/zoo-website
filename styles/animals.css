@@ -1,0 +1,27 @@
+section h2 {
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+}
+
+section p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: lighter;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+article {
+  margin-top: 30px;
+}
+
+article img {
+  width: 90%;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+footer {
+  margin-top: 25px;
+}

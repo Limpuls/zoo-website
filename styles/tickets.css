@@ -1,0 +1,23 @@
+section p {
+  font-size: 12px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+#people {
+  float: left;
+  margin-bottom: 25px;
+}
+#prices {
+  float: right;
+  margin-right: 20px;
+}
+
+#buy_button {
+  clear: both;
+}
+
+/*.tickets_info p {
+  padding-left: 20px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+}*/
